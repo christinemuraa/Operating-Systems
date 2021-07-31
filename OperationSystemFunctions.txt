@@ -1,0 +1,3 @@
+Operation system is the basis on which all software applications rest. operating systems is how varied they are in accomplishing these tasks. The Mainframe operating systems are designed primarily to optimize utilization of hardware.
+One of Operation system function is to control how the computer resources are used and allocation them such as CPU time, main memory, secondary storage and input and output 
+Devices for use.
