@@ -4,3 +4,5 @@ Devices for use.
 
 Another function of Operation system is that it helps user put their PCs to work. Most of the components of an operating system all exist to make the different parts of a computer work together. It is very important for the users of software to go through the operation system to use any of the hardware, as it interpretate the commands and instructions.
  
+ 
+ File management, the storage of file of various storage devices to another. It also allows all files to change and modified using text or some other files manipulation routines. It assignment of processor to different tasks being performed by the computer system.
