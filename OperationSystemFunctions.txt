@@ -1,3 +1,6 @@
 Operation system is the basis on which all software applications rest. operating systems is how varied they are in accomplishing these tasks. The Mainframe operating systems are designed primarily to optimize utilization of hardware.
-One of Operation system function is to control how the computer resources are used and allocation them such as CPU time, main memory, secondary storage and input and output 
+One of Operation system function is to control how the computer resources are used and allocation them such as CPU time, main memory, secondary storage and input and output. 
 Devices for use.
+
+Another function of Operation system is that it helps user put their PCs to work. Most of the components of an operating system all exist to make the different parts of a computer work together. It is very important for the users of software to go through the operation system to use any of the hardware, as it interpretate the commands and instructions.
+ 
